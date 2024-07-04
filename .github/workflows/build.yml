@@ -28,4 +28,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: bibf/docker-test-app:v1.0
+          tags: qmaa96/bibf:v1.0
